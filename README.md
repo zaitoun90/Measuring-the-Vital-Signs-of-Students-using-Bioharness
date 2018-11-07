@@ -12,4 +12,5 @@ within the BioHarness device. As such the device can operate in three
 modes (i.e. transmit, record, transmit and record); which are software
 configurable. In this project we implemented a BioHarness Vital Signs
 Information System (BVSIS) to record the vital signs of sporting students and generate interesting patterns from the recorded data.
+
 [![](http://img.youtube.com/vi/SIIOCNQ3Oyc/0.jpg)](http://www.youtube.com/watch?v=SIIOCNQ3Oyc "Bioharness")
